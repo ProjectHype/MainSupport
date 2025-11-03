@@ -1,5 +1,5 @@
 <center>
-<img src="./assets/Hype-Higher.png">
+<img src="../assets/Hype-Higher.png">
 
 # HypeFiles!
 </center>
@@ -15,4 +15,5 @@
 1. .hype - The Main Hype Lanugage.
 2. .hyl - The HypeLooks Lanugage.
 3. .hys - The HypeScript Lanugage.
+
 3. projectdetails.json - The .json file that explains Hype everything.
