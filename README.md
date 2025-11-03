@@ -1,5 +1,5 @@
 <center>
-<img src="./Hype-Higher.png">
+<img src="./assets/Hype-Higher.png">
 
 # Welcome to ProjectHype!
 </center>
@@ -34,5 +34,6 @@ Depending. If they want to add it then, my answer is Sure!
 "Is there an Extention for Hype that can support things like [Visual Studios Code](https://vscode.dev)?"
 
 Nope. I don't have any plans to add them but, I might in the Future.
+
 
 <hr>
