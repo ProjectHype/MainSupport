@@ -1,0 +1,9 @@
+main [
+    background-color: "#000"
+    color: "#fff"
+    font-family: "'Inter', Sans-Serif"
+]
+
+group: "verybigtext" [
+    font-size: "230px"
+]

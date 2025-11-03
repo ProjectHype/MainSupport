@@ -1,0 +1,5 @@
+!@import hypegathers;
+
+{function: "donothing"}: [
+    {set text with gather: "bigtext" to: "Very Big Text!"}
+]
